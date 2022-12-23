@@ -9,3 +9,4 @@ Neural Collaborative Filtering Model for personal recommendation
 4. Sampling_Labeling_comments.py는 후보군을 뽑고 라벨링해서 데이터셋을 만든는 과정이다
 5. CTR_Neural_CF_comments.py는 클릭 기반 Neural CF를 실행 코드를 작성
 6. Doc2vec_model_recommend_comment.py는 Doc2Vec 추천 모델을 만드는 코드다
+7. gb_recall_9.h5은 최종적으로 사용한 클릭 기반 neural cf 모델이다
